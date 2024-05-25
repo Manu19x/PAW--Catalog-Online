@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Catalog_online.props" />
+</Project>

@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Welcome to the Online Catalog!</h1>
+
+<ul>
+    @if (User.IsInRole("Student"))
+    {
+        <li><a href="@Url.Action("Student", "Home")">Go to Student Page</a></li>
+    }
+    @if (User.IsInRole("Profesor"))
+    {
+        <li><a href="@Url.Action("Profesor", "Home")">Go to Profesor Page</a></li>
+    }
+    @if (User.IsInRole("Secretar"))
+    {
+        <li><a href="@Url.Action("Secretar", "Home")">Go to Secretar Page</a></li>
+    }
+    @if (User.IsInRole("Moderator"))
+    {
+        <li><a href="@Url.Action("Moderator", "Home")">Go to Moderator Page</a></li>
+    }
+</ul>
