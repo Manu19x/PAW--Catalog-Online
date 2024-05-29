@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Catalog.Models.Curs>
+
+@{
+    ViewData["Title"] = "Cursurile Tale";
+}
+
+<h2>Cursurile Tale</h2>
+
+@if (Model == null || !Model.Any())
+{
+    <p>Nu există cursuri înscrise.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nume Curs</th>
+                <th>Descriere</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var curs in Model)
+            {
+                <tr>
+                    <td>@curs.NumeCurs</td>
+                    <td>@curs.Descriere</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{782A35C6-AE5B-46A0-9A82-150642DF9C47}|Catalog_online\\Catalog_online.csproj|c:\\users\\vdpdr\\source\\repos\\paw--catalog-online\\catalog_online\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{782A35C6-AE5B-46A0-9A82-150642DF9C47}|Catalog_online\\Catalog_online.csproj|solutionrelative:catalog_online\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782A35C6-AE5B-46A0-9A82-150642DF9C47}|Catalog_online\\Catalog_online.csproj|c:\\users\\vdpdr\\source\\repos\\paw--catalog-online\\catalog_online\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782A35C6-AE5B-46A0-9A82-150642DF9C47}|Catalog_online\\Catalog_online.csproj|solutionrelative:catalog_online\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782A35C6-AE5B-46A0-9A82-150642DF9C47}|Catalog_online\\Catalog_online.csproj|c:\\users\\vdpdr\\source\\repos\\paw--catalog-online\\catalog_online\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782A35C6-AE5B-46A0-9A82-150642DF9C47}|Catalog_online\\Catalog_online.csproj|solutionrelative:catalog_online\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782A35C6-AE5B-46A0-9A82-150642DF9C47}|Catalog_online\\Catalog_online.csproj|c:\\users\\vdpdr\\source\\repos\\paw--catalog-online\\catalog_online\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782A35C6-AE5B-46A0-9A82-150642DF9C47}|Catalog_online\\Catalog_online.csproj|solutionrelative:catalog_online\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782A35C6-AE5B-46A0-9A82-150642DF9C47}|Catalog_online\\Catalog_online.csproj|c:\\users\\vdpdr\\source\\repos\\paw--catalog-online\\catalog_online\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782A35C6-AE5B-46A0-9A82-150642DF9C47}|Catalog_online\\Catalog_online.csproj|solutionrelative:catalog_online\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782A35C6-AE5B-46A0-9A82-150642DF9C47}|Catalog_online\\Catalog_online.csproj|c:\\users\\vdpdr\\source\\repos\\paw--catalog-online\\catalog_online\\migrations\\20240528193743_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782A35C6-AE5B-46A0-9A82-150642DF9C47}|Catalog_online\\Catalog_online.csproj|solutionrelative:catalog_online\\migrations\\20240528193743_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog_online\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Catalog_online\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog_online\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Catalog_online\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T20:49:47.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog_online\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Catalog_online\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog_online\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Catalog_online\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T19:49:23.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog_online\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Catalog_online\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog_online\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Catalog_online\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T19:49:22.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog_online\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Catalog_online\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog_online\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Catalog_online\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T19:49:21.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog_online\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Catalog_online\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog_online\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Catalog_online\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T19:49:19.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240528193743_v1.cs",
+              "DocumentMoniker": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog_online\\Migrations\\20240528193743_v1.cs",
+              "RelativeDocumentMoniker": "Catalog_online\\Migrations\\20240528193743_v1.cs",
+              "ToolTip": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog_online\\Migrations\\20240528193743_v1.cs",
+              "RelativeToolTip": "Catalog_online\\Migrations\\20240528193743_v1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:37:43.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

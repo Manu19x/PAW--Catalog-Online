@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Catalog.ViewModels.NotePeAnViewModel>
+
+@{
+    ViewData["Title"] = "Notele Tale";
+}
+
+<h2>Notele Tale</h2>
+
+@foreach (var an in Model)
+{
+    <h3>An Universitar: @an.AnUniversitar</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Curs</th>
+                <th>Nota</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var nota in an.Note)
+            {
+                <tr>
+                    <td>@nota.Curs.NumeCurs</td>
+                    <td>@nota.Nota</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <h4>Media: @an.Media</h4>
+}
