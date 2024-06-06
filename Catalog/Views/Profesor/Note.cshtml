@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Catalog.Models.InscriereCurs>
+
+@{
+    ViewData["Title"] = "Adaugă Note";
+}
+
+<h2>Adaugă Note</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nume Student</th>
+            <th>Prenume Student</th>
+            <th>Curs</th>
+            <th>Nota</th>
+            <th>Acțiune</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var inscriere in Model)
+        {
+            <tr>
+                <td>@inscriere.Student.Nume</td>
+                <td>@inscriere.Student.Prenume</td>
+                <td>@inscriere.Curs.NumeCurs</td>
+                <td>
+                    <form asp-action="AdaugaNota" method="post">
+                        <input type="hidden" name="studentId" value="@inscriere.StudentID" />
+                        <input type="hidden" name="cursId" value="@inscriere.CursID" />
+                        <input type="number" step="0.01" name="nota" value="@inscriere.Nota" class="form-control" />
+                        <button type="submit" class="btn btn-primary mt-1">Salvează</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

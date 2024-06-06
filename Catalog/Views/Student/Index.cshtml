@@ -1,5 +1,12 @@
-﻿@{
-    ViewData["Title"] = "Student Page";
+﻿@model Catalog.Models.Student
+
+@{
+    ViewData["Title"] = "Pagina Principală Student";
 }
 
-<h2>Welcome, Student!</h2>
+<h2>Bun venit, @Model.UserAccount.Email</h2>
+
+<div>
+    <a class="btn btn-primary" asp-controller="Student" asp-action="Note">Vezi Notele</a>
+    <a class="btn btn-primary" asp-controller="Student" asp-action="Cursuri">Vezi Cursurile</a>
+</div>

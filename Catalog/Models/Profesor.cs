@@ -13,7 +13,6 @@ namespace Catalog.Models
         public UserAccount UserAccount { get; set; }
         public string Nume { get; set; }
         public string Prenume { get; set; }
-        public string Departament { get; set; }
 
         public ICollection<Curs> Cursuri { get; set; }
     }

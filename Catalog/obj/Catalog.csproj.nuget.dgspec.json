@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vdpdr\\source\\repos\\Catalog\\Catalog\\Catalog.csproj": {}
+    "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Catalog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vdpdr\\source\\repos\\Catalog\\Catalog\\Catalog.csproj": {
+    "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vdpdr\\source\\repos\\Catalog\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "C:\\Users\\vdpdr\\source\\repos\\Catalog\\Catalog\\Catalog.csproj",
+        "projectPath": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\vdpdr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vdpdr\\source\\repos\\Catalog\\Catalog\\obj\\",
+        "outputPath": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vdpdr\\AppData\\Roaming\\NuGet\\NuGet.Config",

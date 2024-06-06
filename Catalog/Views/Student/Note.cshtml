@@ -1,23 +1,28 @@
-﻿@model IEnumerable<Catalog.ViewModels.NotePeAnViewModel>
+﻿@model List<Catalog.ViewModels.NotePeAnViewModel>
 
 @{
-    ViewData["Title"] = "Notele Tale";
+    ViewData["Title"] = "Note";
 }
 
-<h2>Notele Tale</h2>
+<h2>Note</h2>
 
-@foreach (var an in Model)
+<div class="btn-group mb-3" role="group">
+    <a asp-action="Note" asp-route-sortOrder="name" class="btn btn-outline-primary">Sort by Name</a>
+    <a asp-action="Note" asp-route-sortOrder="grade" class="btn btn-outline-primary">Sort by Grade</a>
+</div>
+
+@foreach (var group in Model)
 {
-    <h3>An Universitar: @an.AnUniversitar</h3>
-    <table class="table">
+    <h3>Academic Year: @group.AnUniversitar</h3>
+    <table class="table table-striped">
         <thead>
             <tr>
-                <th>Curs</th>
-                <th>Nota</th>
+                <th>Course Name</th>
+                <th>Grade</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var nota in an.Note)
+            @foreach (var nota in @group.Note)
             {
                 <tr>
                     <td>@nota.Curs.NumeCurs</td>
@@ -26,5 +31,5 @@
             }
         </tbody>
     </table>
-    <h4>Media: @an.Media</h4>
+    <p>Average Grade: @group.Media</p>
 }

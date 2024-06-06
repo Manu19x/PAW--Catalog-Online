@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jjCZIi2p6xxaDhhHCB9pcLq5JT0Cweau2fPi02Iy8rIteoDMevBBwguA2wwVYoI7TYOGRDtuO9avaf01g090KA==",
+  "dgSpecHash": "nw7DWwXq6jJhuPQrGEJvxSFQotegrtTX7kc3vv4yaKvyPkDq9Md+TZPjY4sC0XugY+TO9lv+eDqupfhDRzqG4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vdpdr\\source\\repos\\Catalog\\Catalog\\Catalog.csproj",
+  "projectFilePath": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vdpdr\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\vdpdr\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

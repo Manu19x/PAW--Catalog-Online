@@ -7,6 +7,28 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        html, body {
+            height: 100%;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            flex: 1;
+        }
+
+        footer {
+            position: relative;
+            bottom: 0;
+            width: 100%;
+            padding: 1rem 0;
+            background-color: #f8f9fa;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -22,6 +44,12 @@
                     </li>
                     @if (User.Identity.IsAuthenticated)
                     {
+                        @if (User.IsInRole("Student"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="" asp-controller="Student" asp-action="Index">Student</a>
+                            </li>
+                        }
                         <li class="nav-item">
                             <form asp-area="" asp-controller="Account" asp-action="Logout" method="post" class="form-inline">
                                 <button type="submit" class="btn btn-link nav-link" style="cursor:pointer;">Logout</button>

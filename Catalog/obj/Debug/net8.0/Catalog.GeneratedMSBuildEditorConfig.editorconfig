@@ -9,63 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Catalog
 build_property.RootNamespace = Catalog
-build_property.ProjectDir = C:\Users\vdpdr\source\repos\Catalog\Catalog\
+build_property.ProjectDir = C:\Users\vdpdr\source\repos\PAW--Catalog-Online\Catalog\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\vdpdr\source\repos\Catalog\Catalog
+build_property.MSBuildProjectDirectory = C:\Users\vdpdr\source\repos\PAW--Catalog-Online\Catalog
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/Account/AccessDenied.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/Account/Login.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/Home/Index.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/Home/Privacy.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/Profesor/Index.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/Profesor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/Shared/Error.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/Profesor/Note.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JcTm90ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/Student/Cursuri.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/Student/Cursuri.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDdXJzdXJpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/Student/Index.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/Student/Note.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/Student/Note.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxOb3RlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/_ViewImports.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/_ViewStart.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vdpdr/source/repos/Catalog/Catalog/Views/Shared/_Layout.cshtml]
+[C:/Users/vdpdr/source/repos/PAW--Catalog-Online/Catalog/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6tpy50vc9x

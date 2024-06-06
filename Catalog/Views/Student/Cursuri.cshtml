@@ -1,30 +1,41 @@
-﻿@model IEnumerable<Catalog.Models.Curs>
+﻿@model List<Catalog.ViewModels.CursuriPeAnViewModel>
 
 @{
-    ViewData["Title"] = "Cursurile Tale";
+    ViewData["Title"] = "Cursuri";
 }
 
-<h2>Cursurile Tale</h2>
+<h2>Cursuri</h2>
 
-@if (Model == null || !Model.Any())
+<div class="mb-3">
+    <form method="get" class="form-inline">
+        <input type="text" name="searchString" value="@ViewBag.CurrentFilter" class="form-control mr-2" placeholder="Search courses or professors" />
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+</div>
+
+<div class="btn-group mb-3" role="group">
+    <a asp-action="Cursuri" asp-route-sortOrder="name" class="btn btn-outline-primary">Sort by Name</a>
+    <a asp-action="Cursuri" asp-route-sortOrder="grade" class="btn btn-outline-primary">Sort by Grade</a>
+</div>
+
+@foreach (var group in Model)
 {
-    <p>Nu există cursuri înscrise.</p>
-}
-else
-{
-    <table class="table">
+    <h3>Academic Year: @group.AnUniversitar</h3>
+    <table class="table table-striped">
         <thead>
             <tr>
-                <th>Nume Curs</th>
-                <th>Descriere</th>
+                <th>Course Name</th>
+                <th>Professor</th>
+                <th>Grade</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var curs in Model)
+            @foreach (var curs in @group.Cursuri)
             {
                 <tr>
-                    <td>@curs.NumeCurs</td>
-                    <td>@curs.Descriere</td>
+                    <td>@curs.Curs.NumeCurs</td>
+                    <td>@curs.Curs.Profesor.Nume</td>
+                    <td>@curs.Nota</td>
                 </tr>
             }
         </tbody>
