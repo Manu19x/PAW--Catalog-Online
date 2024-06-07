@@ -3,6 +3,37 @@
   "WorkspaceRootPath": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Catalog/True/SqlTable/dbo.Cursuri.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8435E752-B040-4FE0-A9BA-0B5D6B526CBC}|Catalog\\Catalog.csproj|c:\\users\\vdpdr\\source\\repos\\paw--catalog-online\\catalog\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8435E752-B040-4FE0-A9BA-0B5D6B526CBC}|Catalog\\Catalog.csproj|solutionrelative:catalog\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Catalog/True/SqlTable/dbo.InscrieriCursuri.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Catalog/True/SqlTable/dbo.Profesori.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Catalog/True/SqlTable/dbo.UserAccounts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Catalog/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8435E752-B040-4FE0-A9BA-0B5D6B526CBC}|Catalog\\Catalog.csproj|c:\\users\\vdpdr\\source\\repos\\paw--catalog-online\\catalog\\views\\student\\cursuri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8435E752-B040-4FE0-A9BA-0B5D6B526CBC}|Catalog\\Catalog.csproj|solutionrelative:catalog\\views\\student\\cursuri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8435E752-B040-4FE0-A9BA-0B5D6B526CBC}|Catalog\\Catalog.csproj|c:\\users\\vdpdr\\source\\repos\\paw--catalog-online\\catalog\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8435E752-B040-4FE0-A9BA-0B5D6B526CBC}|Catalog\\Catalog.csproj|solutionrelative:catalog\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8435E752-B040-4FE0-A9BA-0B5D6B526CBC}|Catalog\\Catalog.csproj|c:\\users\\vdpdr\\source\\repos\\paw--catalog-online\\catalog\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8435E752-B040-4FE0-A9BA-0B5D6B526CBC}|Catalog\\Catalog.csproj|solutionrelative:catalog\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8435E752-B040-4FE0-A9BA-0B5D6B526CBC}|Catalog\\Catalog.csproj|c:\\users\\vdpdr\\source\\repos\\paw--catalog-online\\catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8435E752-B040-4FE0-A9BA-0B5D6B526CBC}|Catalog\\Catalog.csproj|solutionrelative:catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +53,109 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Catalog\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Models\\Student.cs",
+              "RelativeToolTip": "Catalog\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:30:25.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "dbo.Cursuri [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Catalog/True/SqlTable/dbo.Cursuri.sql",
+              "ToolTip": "dbo.Cursuri [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-07T08:29:04.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.InscrieriCursuri [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Catalog/True/SqlTable/dbo.InscrieriCursuri.sql",
+              "ToolTip": "dbo.InscrieriCursuri [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-07T08:29:01.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Profesori [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Catalog/True/SqlTable/dbo.Profesori.sql",
+              "ToolTip": "dbo.Profesori [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-07T08:28:58.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Students [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Catalog/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "dbo.Students [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-07T08:28:56.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.UserAccounts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Catalog/True/SqlTable/dbo.UserAccounts.sql",
+              "ToolTip": "dbo.UserAccounts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-07T08:28:53.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cursuri.cshtml",
+              "DocumentMoniker": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Views\\Student\\Cursuri.cshtml",
+              "RelativeDocumentMoniker": "Catalog\\Views\\Student\\Cursuri.cshtml",
+              "ToolTip": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Views\\Student\\Cursuri.cshtml",
+              "RelativeToolTip": "Catalog\\Views\\Student\\Cursuri.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T08:26:08.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Catalog\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Catalog\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:22:32.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Catalog\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Catalog\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:20:24.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vdpdr\\source\\repos\\PAW--Catalog-Online\\Catalog\\Program.cs",
               "RelativeDocumentMoniker": "Catalog\\Program.cs",

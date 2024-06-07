@@ -15,7 +15,6 @@
 
 <div class="btn-group mb-3" role="group">
     <a asp-action="Cursuri" asp-route-sortOrder="name" class="btn btn-outline-primary">Sort by Name</a>
-    <a asp-action="Cursuri" asp-route-sortOrder="grade" class="btn btn-outline-primary">Sort by Grade</a>
 </div>
 
 @foreach (var group in Model)
@@ -26,7 +25,6 @@
             <tr>
                 <th>Course Name</th>
                 <th>Professor</th>
-                <th>Grade</th>
             </tr>
         </thead>
         <tbody>
@@ -35,7 +33,6 @@
                 <tr>
                     <td>@curs.Curs.NumeCurs</td>
                     <td>@curs.Curs.Profesor.Nume</td>
-                    <td>@curs.Nota</td>
                 </tr>
             }
         </tbody>
